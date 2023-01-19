@@ -15,7 +15,7 @@ const DatesList = ({ person }) => {
                                 </div>
                             </div>
                         )
-                    })) : <h2 className="p-5 text-center">لا يوجد مواعيد اليوم</h2>}
+                    })) : <h2 className="p-5 text-center">You Don't Have Any Dates..</h2>}
 
                 </div>
             </Col>
